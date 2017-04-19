@@ -6,3 +6,8 @@ A list of bookmarks
 
 ## dotfiles
 - https://github.com/sapegin/dotfiles
+
+
+## Laravel Package
+- https://github.com/barryvdh/laravel-debugbar
+- https://github.com/filp/whoops
